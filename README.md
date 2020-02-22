@@ -1,6 +1,5 @@
 # pfa1
 Projet Fin d'Année I
 
-The notion of historic monument includes isolated architectural creation as well as the urban or rural site that bears witness to a particular civilization, an evolutionary process, etc.
-significant or historical event. It extends not only to great creations but also to modest works that have acquired cultural significance over time.
-These archaeological works are being destroyed and degenerating, which is prompting some to call for the restoration of historic monuments around the world,but the question remains: should we, or should we not, rebuild?
+La notion de monument historique comprend la création architecturale isolée aussi bien que le site urbain ou rural qui porte témoignage d'une civilisation particulière, d'une évolution significative ou d'un événement historique. Elle s'étend non seulement aux grandes créations mais aussi aux œuvres modestes qui ont acquis avec le temps une signification culturelle.
+Ces œuvres archéologiques, subissent un anéantissement et sont en train de dégénérer, ce qui pousse certains à faire un appel à la restauration des monuments historiques dans le monde, mais la question reste posée : faut-il, oui ou non, reconstruire ? 
